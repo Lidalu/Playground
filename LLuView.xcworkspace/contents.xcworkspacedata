@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LLuPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "container:../playGround/&#x56fe;&#x7247;&#x5b57;&#x9762;&#x91cf;Test-Swift/&#x56fe;&#x7247;&#x5b57;&#x9762;&#x91cf;Test-Swift.xcodeproj">
+   </FileRef>
+</Workspace>
